@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BTLT_Android</string>
+    <string name="textviewtop">First Activity</string>
+    <string name="tvactivitysecond">Second Activity</string>
+    <string name="btnclick">CLICK ME</string>
+    <string name="myinf">Lương Hàn Nhật \n 2050531200244</string>
+    <string name="tvsecond">This is the \n Second Activity</string>
+    <string name="backactivityfirst">Back</string>
 </resources>

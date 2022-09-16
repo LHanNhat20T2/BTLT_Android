@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/BTLT_Android/app/src/main/res/drawable/bordertxtsecond.xml" value="0.252" />
+        <entry key="..\:/BTLT_Android/app/src/main/res/layout/activity_first.xml" value="0.23229166666666667" />
         <entry key="..\:/BTLT_Android/app/src/main/res/layout/activity_main.xml" value="0.24635416666666668" />
+        <entry key="..\:/BTLT_Android/app/src/main/res/layout/activity_second.xml" value="0.24635416666666668" />
       </map>
     </option>
   </component>
